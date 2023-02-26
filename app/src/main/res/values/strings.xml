@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP.C01_Ex04</string>
+    <string name="up"><![CDATA[>]]></string>
+    <string name="superUp"><![CDATA[>>]]></string>
+    <string name="down"><![CDATA[<]]></string>
+    <string name="superDown"><![CDATA[<<]]></string>
+</resources>
